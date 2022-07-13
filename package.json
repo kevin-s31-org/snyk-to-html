@@ -41,7 +41,7 @@
   "snyk": true,
   "devDependencies": {
     "@types/chalk": "^2.2.0",
-    "@types/marked": "^0.6.5",
+    "@types/marked": "^0.7.4",
     "@types/node": "^6.14.7",
     "@typescript-eslint/eslint-plugin": "2.31.0",
     "@typescript-eslint/parser": "2.31.0",
